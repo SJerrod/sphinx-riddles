@@ -1,0 +1,11 @@
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\obj\Debug\netcoreapp2.2\sphinx.csprojAssemblyReference.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\obj\Debug\netcoreapp2.2\sphinx.csproj.CoreCompileInputs.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\obj\Debug\netcoreapp2.2\sphinx.AssemblyInfoInputs.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\obj\Debug\netcoreapp2.2\sphinx.AssemblyInfo.cs
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\bin\Debug\netcoreapp2.2\sphinx.deps.json
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\bin\Debug\netcoreapp2.2\sphinx.runtimeconfig.json
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\bin\Debug\netcoreapp2.2\sphinx.runtimeconfig.dev.json
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\bin\Debug\netcoreapp2.2\sphinx.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\bin\Debug\netcoreapp2.2\sphinx.pdb
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\obj\Debug\netcoreapp2.2\sphinx.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\sphinx-riddles\obj\Debug\netcoreapp2.2\sphinx.pdb
