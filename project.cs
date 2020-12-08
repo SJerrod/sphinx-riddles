@@ -13,16 +13,19 @@ public class Program
     riddle.Add("What goes up but never comes down?", "age");
     riddle.Add("What can you keep after giving to someone?", "your word");
     List<string> questionKeys = new List<string>(riddle.Keys);
-    for (int i = 0; i < questionKeys.Count; i++) {
-      Console.WriteLine(questionKeys[i]);
+    for (int i = 0; i < riddle.Count; i++) {
+      Random x = new Random();
+      int random = x.Next(riddle.Count);
+      Console.WriteLine(questionKeys[random]);
       string yourAnswer = Console.ReadLine();
-      if (yourAnswer == riddle[questionKeys[i]])
+      if (yourAnswer == riddle[questionKeys[random]])
       {
         Console.WriteLine("You are correct!");
       }
       else 
       {
         Console.WriteLine("Munch Time!");
+        break;
       }
     }
   }
